@@ -1,5 +1,5 @@
 #!/bin/sh
-set +e
+
 # Make sure we are using the latest version
 docker pull shiftleft/sast-scan
 
